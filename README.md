@@ -1,8 +1,7 @@
 
-### Olá! Eu sou o Diego Santana 🖐
+## Olá! Eu sou o Diego Santana 🖐
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diesantana&show_icons=true&theme=dracula)
-
 
 ## Tecnologias que eu uso no meu dia
 
@@ -12,6 +11,9 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesantana&layout=compact)
+
 
 Apaixonado por tecnologia e buscando a primeira oportunidade na área de programação. Aprendendo e melhornado a cada dia.
 
