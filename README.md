@@ -1,9 +1,13 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
 
+Apaixonado por tecnologia e buscando a primeira oportunidade na área de programação. Aprendendo e melhornado a cada dia.
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die-santana/)
+
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diesantana&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -14,7 +18,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesantana&layout=compact)
 
+## Estudando neste momento:
 
-Apaixonado por tecnologia e buscando a primeira oportunidade na área de programação. Aprendendo e melhornado a cada dia.
-
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die-santana/)
+<div style="display: inline_block"><br/>
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</div><br/>
