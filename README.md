@@ -5,7 +5,7 @@ Apaixonado por tecnologia e buscando a primeira oportunidade na área de program
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die-santana/)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diesantana&show_icons=true&theme=dracula)
+[![Diego github stats](https://github-readme-stats.vercel.app/api?username=diesantana&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
 ## Tecnologias que eu uso no meu dia:
 
@@ -16,7 +16,7 @@ Apaixonado por tecnologia e buscando a primeira oportunidade na área de program
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesantana&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesantana&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
 
 ## Estudando neste momento:
 
