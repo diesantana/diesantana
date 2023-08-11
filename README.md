@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
 
-Apaixonado por tecnologia e buscando a primeira oportunidade na área de programação. Aprendendo e melhornado a cada dia.
+Apaixonado por tecnologia e buscando a primeira oportunidade na área de programação. Aprendendo e melhorando a cada dia.
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die-santana/)
 
