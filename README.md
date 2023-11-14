@@ -26,7 +26,8 @@ Apaixonado por tecnologia e buscando a primeira oportunidade na área de program
 ## Estudando neste momento:
 
 <div style="display: inline_block"><br/>    
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">  
+Aqui está o meu repositório do curso: https://github.com/diesantana/java-curso
 </div><br/>
 
 
