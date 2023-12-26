@@ -2,14 +2,15 @@
 ## Olá! Eu sou o Diego Santana 🖐
 
 Apaixonado por tecnologia e buscando a primeira oportunidade na área de programação. Aprendendo e melhorando a cada dia.
-- Atualmente estou cursando o Bootcamp Santander FullStack Java Angular
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die-santana/)
 
-[![Diego github stats](https://github-readme-stats.vercel.app/api?username=diesantana&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diesantana&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diesantana&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diesantana&theme=dracula) |
+| :-: | :-: | :-: |
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diesantana&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=diesantana&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesantana&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
 
 ## Tecnologias que eu uso no meu dia:
 
@@ -38,7 +39,7 @@ Aqui está o meu repositório do curso: https://github.com/diesantana/java-curso
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 
-### Angular PSN Store
+### [Angular PSN Store](https://github.com/diesantana/angular-psn-store)
 
 Projeto de clone da página de ofertas da PSN Store desenvolvido no curso de Angular do Bootcamp Santander Fullstack Java-Angular 2023.
 Deploy:  [aqui](https://angular-psn-store-nu.vercel.app/ofertas).
