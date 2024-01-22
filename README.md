@@ -5,11 +5,11 @@
 
 💼 Atualmente, atuo como Desenvolvedor Front-end Voluntário, aplicando meus conhecimentos em JavaScript, Angular, TypeScript, Bootstrap, Git, HTML, CSS e SASS para contribuir em projetos sociais.
 
-🔍 Em constante aprendizado: Estudo Java para expandir minhas habilidades e me manter atualizado com as últimas tendências tecnológicas.
+🔍 Em constante aprendizado para expandir minhas habilidades e me manter atualizado com as últimas tendências tecnológicas.
 
 👥 Desenvolvendo trabalho em equipe: Aprendendo práticas colaborativas, como branches e versionamento no Git, para contribuir de forma efetiva em projetos conjuntos.
 
-🎯 Objetivo: Busco minha primeira oportunidade profissional na área de desenvolvimento front-end, com o objetivo de aplicar e aprimorar minhas habilidades.
+🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento front-end, com o objetivo de aplicar e aprimorar minhas habilidades.
 
 Vamos construir juntos o futuro digital! 👨‍💻✨
 
