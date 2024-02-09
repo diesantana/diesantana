@@ -1,17 +1,18 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
+Vamos construir juntos o futuro digital! 👨‍💻✨
 
 🚀 Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por transformar códigos em experiências incríveis na web.
 
-💼 Atualmente, atuo como Desenvolvedor Front-end Voluntário, aplicando meus conhecimentos em JavaScript, Angular, TypeScript, Bootstrap, Git, HTML, CSS e SASS para contribuir em projetos sociais.
+💼 Atualmente, atuo como Desenvolvedor Front-end Voluntário, aplicando meus conhecimentos em Angular, Bootstrap, Git para contribuir em projetos sociais.
 
 🔍 Em constante aprendizado para expandir minhas habilidades e me manter atualizado com as últimas tendências tecnológicas.
 
 👥 Desenvolvendo trabalho em equipe: Aprendendo práticas colaborativas, como branches e versionamento no Git, para contribuir de forma efetiva em projetos conjuntos.
 
-🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento front-end, com o objetivo de aplicar e aprimorar minhas habilidades.
+🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento C#, com o objetivo de aplicar e aprimorar minhas habilidades.
 
-Vamos construir juntos o futuro digital! 👨‍💻✨
+
 
 
 
@@ -22,28 +23,6 @@ Vamos construir juntos o futuro digital! 👨‍💻✨
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diesantana&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=diesantana&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
-
-
-## Tecnologias que eu uso no meu dia:
-
-<div style="display: inline_block"><br/>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-</div><br/>
-
-
-
-## Estudando neste momento:
-
-<div style="display: inline_block"><br/>    
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">  
-Aqui está o meu repositório do curso: https://github.com/diesantana/java-curso
-</div><br/>
 
 
 ## Meus Projetos
