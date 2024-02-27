@@ -10,7 +10,7 @@ Vamos construir juntos o futuro digital! 👨‍💻✨
 
 👥 Desenvolvendo trabalho em equipe: Aprendendo práticas colaborativas, como branches e versionamento no Git, para contribuir de forma efetiva em projetos conjuntos.
 
-🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento C#, com o objetivo de aplicar e aprimorar minhas habilidades.
+🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento, com o objetivo de aplicar e aprimorar minhas habilidades.
 
 
 
