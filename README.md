@@ -1,8 +1,7 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
-Vamos construir juntos o futuro digital! 👨‍💻✨
 
-🚀 Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por transformar códigos em experiências incríveis.
+Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por transformar códigos em experiências incríveis.
 
 🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento, com o objetivo de aplicar e aprimorar minhas habilidades.
 
@@ -21,4 +20,5 @@ Vamos construir juntos o futuro digital! 👨‍💻✨
 
 
 Sinta-se à vontade para explorar mais detalhes sobre esses projetos clicando nos links fornecidos. Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato comigo.
+Vamos construir juntos o futuro digital! 👨‍💻✨
 
