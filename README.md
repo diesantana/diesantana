@@ -3,7 +3,7 @@
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por transformar códigos em experiências incríveis.
 
-🎯 Busco minha primeira oportunidade profissional na área de desenvolvimento, com o objetivo de aplicar e aprimorar minhas habilidades.
+🎯 Em busca do meu sonho profissional na área de desenvolvimento, com o objetivo de aplicar e aprimorar minhas habilidades.
 
 
 
@@ -18,7 +18,4 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por transformar
 | :-: | :-: |
 
 
-
-Sinta-se à vontade para explorar mais detalhes sobre esses projetos clicando nos links fornecidos. Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato comigo.
-Vamos construir juntos o futuro digital! 👨‍💻✨
 
