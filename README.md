@@ -1,8 +1,7 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por transformar códigos em experiências incríveis na web.  
-Tive o prazer de atuar como desenvolvedor voluntário por 4 meses, onde eu pude aprender muito sobre trabalho em equipe e o dia a dia do desenvolvedor.  
+Tecnólogo em Análise e Desenvolvimento de Sistemas, tive o prazer de atuar como desenvolvedor voluntário por 4 meses, onde eu pude aprender muito sobre trabalho em equipe e o dia a dia do desenvolvedor.  
    
 Atualmente estou estudando Spring Boot através da plataforma DevSuperior, onde estou aprendendo muitos sobre API REST e todo o ecossistema Spring.
   
