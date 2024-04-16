@@ -5,7 +5,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas, tive o prazer de atuar com
    
 Atualmente estou estudando Spring Boot através da plataforma DevSuperior, onde estou aprendendo muitos sobre API REST e todo o ecossistema Spring.
   
-Em busca do meu sonho profissional na área de desenvolvimento Java, com o objetivo de aplicar e aprimorar minhas habilidades.
+Estou em busca do meu sonho profissional na área de desenvolvimento Java, com o objetivo de aplicar e aprimorar minhas habilidades.
   
 "Nunca deixe de sonhar, porque, se você deixar, ninguém vai sonhar por você."
 
