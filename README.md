@@ -1,6 +1,6 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
-Tecnólogo em Análise e Desenvolvimento de Sistemas, tenho experiência no desenvolvimento de software em Java, Angular, Spring, JUnit, SQL, MongoDB, TypeScript, e bom conhecimento em CSS e JavaScript, e HTML.   
+Tecnólogo em Análise e Desenvolvimento de Sistemas, tenho experiência no desenvolvimento de software em Java, Angular, Spring, JUnit, SQL, MongoDB, TypeScript, e bom conhecimento em CSS, JavaScript, e HTML.   
 Estou sempre em buca de aprender novas tecnologias e padrões de desenvolvimento, com o objetivo de crescer pessoal e profissionalmente.
    
 Atualmente estou estudando Spring Boot através da plataforma DevSuperior, onde estou aprendendo muito sobre API REST, Testes, JPA, Docker e todo o ecossistema Spring.
