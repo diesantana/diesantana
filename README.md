@@ -5,7 +5,7 @@ Estou sempre em buca de aprender novas tecnologias e padrões de desenvolvimento
    
 Atualmente estou estudando Spring Boot através da plataforma DevSuperior, onde estou aprendendo muito sobre API REST, Testes, JPA, Docker e todo o ecossistema Spring.
   
-Estou em busca de uma oportunidade na área de desenvolvimento FullStack Java Angular, com o objetivo de aplicar e aprimorar minhas habilidades.
+Estou em busca de uma oportunidade na área de desenvolvimento, com o objetivo de aplicar e aprimorar minhas habilidades.
   
 "Nunca deixe de sonhar, porque, se você deixar, ninguém vai sonhar por você."
 
