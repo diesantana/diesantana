@@ -1,8 +1,8 @@
 
 ## Olá! Eu sou o Diego Santana 🖐
-Formado em Análise e desenvolvimento de sistemas, estou me especializando em desenvolvimento backend com Java, possuo conhecimentos em Programação Orientada a Objetos, Spring Boot, SQL, Desenvolvimento de APIs REST e testes unitários com JUNit 5 e Mockito. 
-Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento, com o objetivo de aprimorar as minhas habilidades. 
-Sou uma pessoa aberta a feedback e proativa, sempre em busca de aprender mais e evoluir. Tenho facilidade em trabalhar em equipe e de aprender novas tecnologias. Atualmente estou estudando testes unitários com JUnit e Mockito, e os próximos passos é aprender mais sobre Arquiterua Hexagonal e Clean, Docker, Microsserviços e AWS.
+Tenho 27 anos, sou Formado em Análise e desenvolvimento de sistemas e possuo conhecimentos no desenvolvimento backend com Java, SQL e Angular no qual eu tive o prazer de contribuir em projetos sociais como desenvolvedor front-end. Possuo conhecimentos acadêmicos sobre desenvolvimento Agil (Scrum) e forte domínio de versionamento de código com Git.
+Atualmente estou me especializando em desenvolvimento ADVPL/TLPP e estou em migração de carreira para a área de TI. 
+Sou uma pessoa aberta a feedback e proativa, gosto de trabalhar em equipe e estou sempre atento aos prazos e demandas. Busco Sempre entregar o meu melhor, independente da situação. Estou sempre em busca de aprender mais e evoluir. 
 
 
 
