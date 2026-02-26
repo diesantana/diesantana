@@ -1,4 +1,4 @@
-Oi! Eu sou o Diego, tenho 27 anos e sou apaixonado por tecnologia.
+Oi! Eu sou o Diego, tenho 28 anos e sou apaixonado por tecnologia.
 Me formei em Análise e Desenvolvimento de Sistemas e desde então venho explorando diferentes áreas da TI. Já trabalhei com Java, Angular, SQL e venho me aprofundando cada vez mais em desenvolvimento web, especialmente com PHP.
 
 Também tenho conhecimentos em Protheus (ADVPL/TLPP), versionamento com Git e já participei de projetos sociais como dev voluntário. Gosto de colaborar, aprender coisas novas e estou sempre em busca de evoluir e entregar meu melhor em tudo que faço.
