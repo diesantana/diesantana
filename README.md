@@ -16,7 +16,7 @@ Atualmente, estou construindo projetos práticos para fortalecer minha base em d
 - **[CareDay Estética](https://esteticacareday.com.br)** — site institucional responsivo publicado
 - **[Buscador de CEP](https://github.com/diesantana/buscador-cep)** — aplicação web consumindo API externa
 
-## Objetivo atual
+## Objetivo
 Busco oportunidade para atuar como **Desenvolvedor Web Júnior**, contribuindo com projetos reais e evoluindo tecnicamente em back-end e desenvolvimento web.
 
 ## Contato
