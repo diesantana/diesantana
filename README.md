@@ -10,22 +10,14 @@ Atualmente, estou construindo projetos práticos para fortalecer minha base em d
 - MySQL
 - Docker
 - Git e GitHub
-- HTML e CSS / Tailwind CSS
+- HTML, CSS e Tailwind CSS
 
 ## Projetos em destaque
-- **CareDay Estética** — site institucional responsivo publicado
-- **Buscador de CEP** — aplicação front-end consumindo API
-- **Projetos de estudo em PHP** — estruturação, lógica e evolução prática
+- **[CareDay Estética](https://esteticacareday.com.br)** — site institucional responsivo publicado
+- **[Buscador de CEP](https://seu-link-aqui.com)** — aplicação web consumindo API externa
+
+## Objetivo atual
+Busco oportunidade para atuar como **Desenvolvedor Web Júnior**, contribuindo com projetos reais e evoluindo tecnicamente em back-end e desenvolvimento web.
 
 ## Contato
-- LinkedIn: [linkedin.com/in/die-santana](https://www.linkedin.com/in/die-santana)
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diesantana&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diesantana&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diesantana&theme=dracula) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diesantana&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=diesantana&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
-
-
-
+- **[Meu LinkedIn](https://www.linkedin.com/in/die-santana)** — perfil profissional
