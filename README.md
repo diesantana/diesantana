@@ -1,12 +1,25 @@
-Oi! Eu sou o Diego, tenho 28 anos e sou apaixonado por tecnologia.
-Me formei em Análise e Desenvolvimento de Sistemas e desde então venho explorando diferentes áreas da TI. Já trabalhei com Java, Angular, SQL e venho me aprofundando cada vez mais em desenvolvimento web, especialmente com PHP.
+# Olá, eu sou o Diego Santana 👋
 
-Também tenho conhecimentos em Protheus (ADVPL/TLPP), versionamento com Git e já participei de projetos sociais como dev voluntário. Gosto de colaborar, aprender coisas novas e estou sempre em busca de evoluir e entregar meu melhor em tudo que faço.
+Sou desenvolvedor web com foco em back-end e venho aprofundando meus estudos e projetos em **PHP, JavaScript, MySQL, Git e Docker**.
 
+Atualmente, estou construindo projetos práticos para fortalecer minha base em desenvolvimento web, organização de código, integração de funcionalidades e publicação de aplicações.
 
+## Tecnologias em foco
+- PHP
+- JavaScript
+- MySQL
+- Docker
+- Git e GitHub
+- HTML e CSS / Tailwind CSS
 
+## Projetos em destaque
+- **CareDay Estética** — site institucional responsivo publicado
+- **Buscador de CEP** — aplicação front-end consumindo API
+- **Projetos de estudo em PHP** — estruturação, lógica e evolução prática
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die-santana/)
+## Contato
+- LinkedIn: [linkedin.com/in/die-santana](https://www.linkedin.com/in/die-santana)
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diesantana&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diesantana&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diesantana&theme=dracula) |
 | :-: | :-: | :-: |
